@@ -1,4 +1,4 @@
-nato = {
+n={
   'A': 'Alfa',
   'B': 'Bravo',
   'C': 'Charlie',
@@ -26,7 +26,7 @@ nato = {
   'Y': 'Yankee',
   'Z': 'Zulu',
   ' ': ' '
-}
+};
 
-module.exports.spell = (string) => string.split("").map((x) => nato[x.toUpperCase()])
+s=t=>t.split("").map(x=>n[x.toUpperCase()])
 
