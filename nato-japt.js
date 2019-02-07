@@ -1,1 +1,2 @@
-Uq fX{X!=S} mX{`Alfa,Bravo,Charlie,Delta,Echo,Foxtrot,Golf,Hotel,India,Juliett,Kilo,Lima,Mike,November,Oscar,Papa,Quebec,Romeo,Sierra,Tango,Uniform,Victor,Whiskey,Xray,Yankee,Zulu`q, æY{Yg0 ==Xu
+Uq fX{X!=S} mX{`Alfa,Bvo,Cr¦e,Delta,E®o,FoxÉ,Golf,HÇU,Iia,Jªiett,Kilo,La,Mike,Novem¼r,Os¯r,Papa,Que¼c,Ro´o,Si,TÂ
+,Unifm,VÅ¡r,Wskey,Xy,Ykee,Zªu`q, æY{Yg0 ==Xu
